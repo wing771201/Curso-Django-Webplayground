@@ -22,3 +22,5 @@ Notas:
 2.- el comando {% firtsof %} funciona para que te diga cual es la primera variable que no esta vacia
     En caso de que todas las variables esten vacias o no existan, puedes poner un nombre por defecto.
     De este modo sabes si una variable esta vacia sin necesidad de usar muchos {% if %}
+
+Para crear un super usuario se usa el comando: python manage.py createsuperuser
